@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/danyela2000/order-summary-component](https://github.com/danyela2000/order-summary-component)
+- Live Site URL: [https://dancing-twilight-99ab7e.netlify.app/](https://dancing-twilight-99ab7e.netlify.app/)
 
 ## My process
 
